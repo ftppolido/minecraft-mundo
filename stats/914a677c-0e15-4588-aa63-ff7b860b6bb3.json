@@ -100,7 +100,7 @@
       "minecraft:item_frame": 5,
       "minecraft:dark_oak_planks": 1263,
       "minecraft:furnace": 22,
-      "minecraft:torch": 134,
+      "minecraft:torch": 135,
       "minecraft:dirt": 759,
       "minecraft:obsidian": 10,
       "minecraft:wooden_hoe": 13,
@@ -170,7 +170,7 @@
       "minecraft:birch_pressure_plate": 4,
       "minecraft:gravel": 32,
       "minecraft:golden_boots": 2,
-      "minecraft:torch": 17,
+      "minecraft:torch": 18,
       "minecraft:quartz_block": 2,
       "minecraft:spruce_log": 1,
       "minecraft:leaf_litter": 109,
@@ -265,7 +265,7 @@
       "minecraft:iron_leggings": 1
     },
     "minecraft:mined": {
-      "minecraft:torch": 4,
+      "minecraft:torch": 5,
       "minecraft:spruce_log": 1,
       "minecraft:nether_quartz_ore": 8,
       "minecraft:chest": 3,
@@ -334,25 +334,25 @@
       "minecraft:lapis_ore": 6
     },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 11489,
+      "minecraft:time_since_rest": 11587,
       "minecraft:talked_to_villager": 1,
-      "minecraft:leave_game": 16,
+      "minecraft:leave_game": 17,
       "minecraft:damage_taken": 5601,
       "minecraft:mob_kills": 112,
       "minecraft:boat_one_cm": 826617,
-      "minecraft:time_since_death": 11362,
+      "minecraft:time_since_death": 11460,
       "minecraft:interact_with_furnace": 159,
       "minecraft:sleep_in_bed": 18,
       "minecraft:swim_one_cm": 9209,
-      "minecraft:total_world_time": 793889,
-      "minecraft:crouch_one_cm": 48110,
+      "minecraft:total_world_time": 794211,
+      "minecraft:crouch_one_cm": 48172,
       "minecraft:deaths": 6,
       "minecraft:climb_one_cm": 1634,
       "minecraft:interact_with_crafting_table": 135,
-      "minecraft:walk_one_cm": 2239794,
+      "minecraft:walk_one_cm": 2240098,
       "minecraft:walk_under_water_one_cm": 31945,
       "minecraft:damage_dealt": 15902,
-      "minecraft:play_time": 700944,
+      "minecraft:play_time": 701042,
       "minecraft:jump": 3282,
       "minecraft:drop": 485,
       "minecraft:sprint_one_cm": 622199,
@@ -360,7 +360,7 @@
       "minecraft:fall_one_cm": 58079,
       "minecraft:fly_one_cm": 111834,
       "minecraft:walk_on_water_one_cm": 84901,
-      "minecraft:sneak_time": 16482
+      "minecraft:sneak_time": 16489
     },
     "minecraft:killed_by": {
       "minecraft:zombie": 1
