@@ -1111,7 +1111,8 @@
       "cooked_chicken": "2025-12-28 23:41:38 +0000",
       "cooked_mutton": "2025-12-28 21:00:38 +0000",
       "cooked_beef": "2025-12-28 21:22:38 +0000",
-      "porkchop": "2025-12-28 21:39:25 +0000"
+      "porkchop": "2025-12-28 21:39:25 +0000",
+      "carrot": "2025-12-31 18:47:21 +0000"
     },
     "done": false
   },
@@ -2724,6 +2725,50 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-12-31 00:33:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-12-31 19:23:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-12-31 19:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-12-31 18:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-12-31 18:50:58 +0000",
+      "minecraft:pig": "2025-12-31 18:51:13 +0000",
+      "minecraft:sheep": "2025-12-31 19:46:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-12-31 18:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-12-31 19:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-12-31 18:52:22 +0000"
     },
     "done": true
   },
